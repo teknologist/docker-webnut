@@ -20,5 +20,5 @@ Set the following environment variables:
 
 Run with:
 
-> docker run -e UPS_HOST="10.11.12.13"  -e UPS_PORT="3493" -e UPS_USER="monuser" -e UPS_PASSWORD="secret" -p 6543:6543 -e  teknologist/webnut:latest
+> docker run -e UPS_HOST="10.11.12.13"  -e UPS_PORT="3493" -e UPS_USER="monuser" -e UPS_PASSWORD="secret" -p 6543:6543 teknologist/webnut:latest
 
